@@ -1,0 +1,1 @@
+# MinimoProductManager_V2
